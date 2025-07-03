@@ -30,13 +30,12 @@ random-bg-changer/
 ├── README.md       # Project documentation
 └── screenshot.png  # App preview
 
-text
 
 ## 🌈 Color Palette Examples
 | Hex Code  | Color Preview                     |
 |-----------|-----------------------------------|
-| `#2C3E50` | <div style="width:50px;height:50px;background:#2C3E50;"></div> |
-| `#34495E` | <div style="width:50px;height:50px;background:#34495E;"></div> |
+| `#2C3E50` | ![#2C3E50](https://img.shields.io/badge/-%232C3E50-2C3E50) |
+| `#34495E` | ![#34495E](https://img.shields.io/badge/-%2334495E-34495E) |
 
 ## 📜 License
 MIT License
