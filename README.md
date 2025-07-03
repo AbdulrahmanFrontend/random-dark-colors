@@ -35,8 +35,8 @@ text
 ## 🌈 Color Palette Examples
 | Hex Code  | Color Preview                     |
 |-----------|-----------------------------------|
-| `#2C3E50` | ![#2C3E50](https://via.placeholder.com/40/2C3E50/FFFFFF?text=+) |
-| `#34495E` | ![#34495E](https://via.placeholder.com/40/34495E/FFFFFF?text=+) |
+| `#2C3E50` | <div style="width:50px;height:50px;background:#2C3E50;"></div> |
+| `#34495E` | <div style="width:50px;height:50px;background:#34495E;"></div> |
 
 ## 📜 License
 MIT License
@@ -45,7 +45,7 @@ MIT License
 - [freeCodeCamp](https://www.freecodecamp.org/) for the original project idea.
 
 ## 🌐 Live Demo
-[Try it live!](https://your-username.github.io/repo-name/)
+[Try it live!](https://abdulrahmanfrontend.github.io/random-dark-colors/)
 
 ⚠️ **Note**  
 Created as part of freeCodeCamp's curriculum. Original requirements belong to freeCodeCamp.
