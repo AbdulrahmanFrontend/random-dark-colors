@@ -23,13 +23,14 @@ A simple web app that changes the background to random dark colors. Built as par
 2. Click the button to change colors!
 
 ## 📂 Project Structure
+```
 random-bg-changer/
 ├── index.html      # Main HTML file
 ├── styles.css      # CSS styles
 ├── script.js       # JavaScript functionality
 ├── README.md       # Project documentation
 └── screenshot.png  # App preview
-
+```
 
 ## 🌈 Color Palette Examples
 | Hex Code  | Color Preview                     |
